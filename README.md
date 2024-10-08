@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/rajat-rahangdale-b5b607194/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://rajat-rahangdale.vercel.app/" target="_blank">
+  <a href="[https://rajat-rahangdale.vercel.app/](https://rajat-portfolio-nu.vercel.app/)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
